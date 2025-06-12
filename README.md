@@ -1,4 +1,4 @@
-## Hi,I am Morgan 👋
+## Hi, 👋
 
 - 🔭 Computer Science student at Strathmore University<br>
 - 🌱 I create themed websites, web applications and Mobile Application<br>
