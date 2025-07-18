@@ -1,7 +1,7 @@
 ## Hi, 👋
 
 - 🔭 Computer Science student at Strathmore University<br>
-- 🌱 I create themed websites, web applications and Mobile Application<br>
+- 🌱 Create themed websites, web applications and Mobile Application<br>
 - 💬 Ask me about Full Stack Web Development, Programming, Computer Hardware and any other Tech Solutions  ⚡...<br>
 - 📫 How to reach me: ...Links to social media Accounts<br>
 - 😄  ...<br>
